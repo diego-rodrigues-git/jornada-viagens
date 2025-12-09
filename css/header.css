@@ -8,13 +8,17 @@ header {
 }
 
 .logo {
-	width: 68px;
+	width: 64px;
 	height: 64px;
 	display: inline-block;
 }
 
 .navigation-menu {
 	margin-top: 24px;
+}
+
+input[type="checkbox"]:checked ~ nav {
+	display: block;
 }
 
 nav {
