@@ -8,9 +8,9 @@ header {
 }
 
 .logo {
-	display: inline-block;
 	width: 68px;
 	height: 64px;
+	display: inline-block;
 }
 
 .navigation-menu {
